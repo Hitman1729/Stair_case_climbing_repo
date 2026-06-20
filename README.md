@@ -75,3 +75,62 @@ throughout all files for privacy.
 ---
 
 ## Repository Structure
+Stair_case_climbing_repo/
+
+│
+
+├── README.md
+
+├── LICENSE
+
+│
+
+├── data/
+
+│   ├── raw_angles/
+
+│   │   ├── Subject1_hip_file.csv
+
+│   │   ├── Subject1_knee_file.csv
+
+│   │   ├── Subject2_hip_file.csv
+
+│   │   ├── Subject2_knee_file.csv
+
+│   │   ├── Subject3_hip_file.csv
+
+│   │   └── Subject3_knee_file.csv
+
+│   │
+
+│   └── converted_angles/
+
+│       ├── Subject1_converted_angles.xlsx
+
+│       ├── Subject2_converted_angles.xlsx
+
+│       └── Subject3_converted_angles.xlsx
+
+│
+
+├── code/
+
+│   ├── MATLAB_Fourier_Fitting.m
+
+│   └── MATLAB_EulerLagrange_Torque.m
+
+│
+
+├── fourier_coefficients/
+
+│   └── Supplementary_Table_S1_Fourier_Coefficients.xlsx
+
+│
+
+└── torque_values/
+
+├── Subject1_torque_output.xlsx
+
+├── Subject2_torque_output.xlsx
+
+└── Subject3_torque_output.xlsx
