@@ -70,7 +70,7 @@ throughout all files for privacy.
 | Camera | Sony Alpha A6100 (ILCE-6100) |
 | Frame rate | 120 fps |
 | Resolution | 1920 x 1080 pixels (Full HD) |
-| Software | Kinovea Version 0.9.5 |
+| Software | Kinovea Version 2025.2.0 |
 
 ---
 
@@ -141,7 +141,7 @@ Stair_case_climbing_repo/
 ### data/raw_angles/
 
 Six CSV files containing raw hip and knee angle data exported
-directly from Kinovea Version 0.9.5 at 120 frames per second.
+directly from Kinovea Version 2025.2.0 at 120 frames per second.
 
 Each file contains two columns:
 - Column 1: Time (milliseconds, as exported by Kinovea)
